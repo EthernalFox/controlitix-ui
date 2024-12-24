@@ -1,5 +1,5 @@
-function App() {
-  return <></>;
-}
+const App = () => {
+  return <>sdasd</>;
+};
 
 export default App;
